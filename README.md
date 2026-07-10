@@ -1,2 +1,1 @@
-# wellbeing-ml-project
-Machine Learning project for well-being prediction).
+# A Comprehensive Measure of Well-Being Using Machine Learning
